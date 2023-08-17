@@ -1,5 +1,7 @@
 # Portfolio-Project---Dad-joke-generator
 
+Push the big button and receive your dad joke of the day. :-)
+
 As part of the Codecademy Full-Stack-Engineering course, this is my first personal project using JavaScript. That being said
 I was not required to use any HTML or CSS, however felt it was warrented and wished to try my hand with some experimentation
 with crossing programming languages.

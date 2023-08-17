@@ -1,8 +1,8 @@
 //This function creates a random number and connects it to one of the many dad jokes in the following array
 const generator = (joke) => {
-        let randomNum = Math.floor(Math.random() * joke.length)
+        let randomNum = Math.floor(Math.random() * joke.length);
         console.log(joke[randomNum]);
-};
+}; 
 
 
 //Array of dad jokes to be selected from the generator above

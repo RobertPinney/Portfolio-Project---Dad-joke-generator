@@ -1,8 +1,11 @@
+//This function creates a random number and connects it to one of the many dad jokes in the following array
 const generator = (joke) => {
         let randomNum = Math.floor(Math.random() * joke.length)
         console.log(joke[randomNum]);
 };
 
+
+//Array of dad jokes to be selected from the generator above
 const dadJokes = ["What did the fish say when he swam into a concrete wall?...Dam", 
 "Why did the security conscious engineer refuse to pay their dinner bill?...Because they could not verify the checksum.", 
 "Why was the developer unhappy at their job?...They wanted arrays.", 
@@ -24,5 +27,6 @@ const dadJokes = ["What did the fish say when he swam into a concrete wall?...Da
 "When two vegans get in an argument, is it still called a beef?", 
 "I ordered a chicken and an egg from Amazon. I'll let you know..."];
 
+//Code to run the random dad joke generator
 generator(dadJokes);
 

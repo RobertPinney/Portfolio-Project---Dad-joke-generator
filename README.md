@@ -11,4 +11,4 @@ A I look back over the original assignment I now realize that I probably should 
 however I had fun, and look forward to creating many more interactive webpages.
 
 Til next time,
-**Robert **Pinney
+Robert Pinney
